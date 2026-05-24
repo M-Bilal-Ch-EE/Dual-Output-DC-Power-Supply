@@ -165,7 +165,9 @@ The circuit was simulated in **Proteus** to validate performance before hardware
 
 ### Schematic Diagram
 
-![Proteus Schematic](images/proteus-schematic.png)
+![Proteus Schematic](images/proteus-schematic-1.png)
+
+![Proteus Schematic](images/proteus-schematic-2.png)
 
 ### Simulation Observations
 
