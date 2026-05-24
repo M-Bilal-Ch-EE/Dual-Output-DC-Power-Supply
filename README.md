@@ -253,5 +253,3 @@ The project successfully achieved the required design objectives by delivering a
 
 ---
 
-**Muhammad Bilal Chaudhry**  
-Electrical Engineering — NUST
