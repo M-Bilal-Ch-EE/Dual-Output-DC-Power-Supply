@@ -108,8 +108,6 @@ This enables simultaneous fixed and variable voltage supply operation.
 
 ## Circuit Topology & Block Diagram
 
-> Add the block diagram/schematic screenshot here (same position as report)
-
 ![Circuit Topology](images/circuit-topology.png)
 
 The design consists of:
@@ -167,8 +165,6 @@ The circuit was simulated in **Proteus** to validate performance before hardware
 
 ### Schematic Diagram
 
-> Add Proteus schematic screenshot here
-
 ![Proteus Schematic](images/proteus-schematic.png)
 
 ### Simulation Observations
@@ -183,8 +179,6 @@ The circuit was simulated in **Proteus** to validate performance before hardware
 ## Hardware Implementation
 
 The circuit was assembled and tested physically.
-
-> Add hardware implementation image here
 
 ![Hardware Implementation](images/hardware-implementation.png)
 
